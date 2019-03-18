@@ -1,3 +1,7 @@
+/*
+This is a sample program for all possible
+combination of a string inputed by the user.
+*/
 import java.io.*;
 class AllCombi
 {
